@@ -1,2 +1,2 @@
-# basic codes
-ticket expense, bmi calculator, tip calculator, leap year
+# codes
+ticket expense, bmi calculator, tip calculator, leap year, treasure island game, pizza delivery...
